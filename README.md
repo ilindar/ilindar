@@ -1,16 +1,42 @@
-## Hi there 👋
+# Привет! Меня зовут Дарья 👋
 
-<!--
-**ilindar/ilindar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Системный аналитик** с предпринимательским бэкграундом и 6-летним опытом выстраивания процессов с нуля.
+Для меня структура - это про эффективность и свободу.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Обо мне
+
+🔹 Перехожу в системную аналитику из предпринимательства: за 6 лет в стартапе прошла путь от хаоса до устойчивой операционной модели.  
+🔹 Внедрила CRM с нуля, автоматизировала финансовый учёт, разработала ТЗ для сайта, увеличила лидопоток в 2 раза.  
+🔹 Теперь хочу применять свой опыт на масштабных проектах: проектировать архитектуру решений, интеграции и системы, которые помогают бизнесу расти без хаоса.
+
+---
+
+## 🛠️ Навыки и инструменты
+
+| **Группа** | **Технологии** |
+|------------|----------------|
+| 🔍 **Анализ требований** | Сбор и формализация требований, написание ТЗ, Use Cases, User Stories, приоритизация |
+| 📊 **Моделирование** | BPMN (as-is/to-be), UML (диаграммы последовательности, активности, UseCase) |
+| 🗄️ **Базы данных** | SQL (Join, Union, агрегатные функции), PostgreSQL, Redis |
+| 🌐 **Интеграции** | REST API, Swagger (OpenAPI), Postman, понимание принципов SOAP |
+| 🛠️ **Инструменты** | Jira, Confluence, Miro, Notion, MS Visio, Excel (сводные таблицы, формулы), Power BI |
+| 📋 **Методологии** | Agile, Scrum, Kanban |
+
+---
+
+## 📂 Портфолио
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [**Интеграция CRM с MadeTask**](https://github.com/ilindar/analyst-portfolio/tree/main/case-system-integration) | Разработка ТЗ на интеграцию CRM с внешним сервисом для автоматизации задач, управления исполнителями и проведения выплат. | BPMN, UML, REST API, SQL |
+| [**Оптимизация бизнес-процесса «Запись клиента на тренировку»**](https://github.com/ilindar/analyst-portfolio/tree/main/case-business-process) | Анализ и оптимизация бизнес-процесса спортивного клуба. Внедрение CRM, рост конверсии лидов до 70%. | BPMN, User Stories, Use Cases, Excel, CRM |
+
+---
+
+## 📫 Контакты
+
+📧 [ilindar95@mail.ru](mailto:ilindar95@mail.ru)  
+💬 [Telegram: @ilindar95](https://t.me/ilindar95)  
+📂 [GitHub: ilindar](https://github.com/ilindar)  

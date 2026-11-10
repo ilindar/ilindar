@@ -25,9 +25,9 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **[Проектирование AI-сервиса (Pet-проект)](ссылка_на_репозиторий_таро)** | Разработка полного пакета ТЗ (100+ стр.) для сервиса с LLM-генерацией. Проектирование REST API, БД (DDL), State Machine и паттерна Transactional Outbox для интеграции с платежами. | BPMN, UML, REST, OpenAPI, PostgreSQL, AI-first |
+| **[Проектирование AI-сервиса (Pet-проект)](https://github.com/ilindar/analyst-portfolio/tree/main/case-ai-service-taro)** | Разработка полного пакета ТЗ (100+ стр.) для сервиса с LLM-генерацией. Проектирование REST API, БД (DDL), State Machine и паттерна Transactional Outbox для интеграции с платежами. | BPMN, UML, REST, OpenAPI, PostgreSQL, AI-first |
 | **[Интеграция CRM с MadeTask](https://github.com/ilindar/analyst-portfolio/tree/main/case-system-integration)** | Разработка ТЗ на интеграцию CRM с внешним сервисом для автоматизации задач, управления исполнителями и проведения выплат. | BPMN, UML, REST API, SQL |
-| **[Оптимизация бизнес-процесса «Запись клиента на тренировку»](ссылка_на_кейс)** | Анализ и оптимизация бизнес-процесса спортивного клуба. Внедрение CRM, рост конверсии лидов до 70%. | BPMN, User Stories, Use Cases, Excel, CRM |
+| **[Оптимизация бизнес-процесса](https://github.com/ilindar/analyst-portfolio/tree/main/case-business-process)** | Анализ и оптимизация бизнес-процесса спортивного клуба. Внедрение CRM, рост конверсии лидов до 70%. | BPMN, User Stories, Use Cases, Excel, CRM |
 
 ### 📫 Контакты
 
